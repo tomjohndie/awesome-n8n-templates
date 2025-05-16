@@ -16,6 +16,15 @@ All automation templates in this repository were found online and are uploaded h
 
 ## Categories & Template List
 
+---
+
+## 🧵 If you want to scrape Twitter (X) threads, definitely check this workflow
+
+Looking to extract and merge entire Twitter (X) threads quickly and affordably?  
+Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)-it’s lightning-fast, cost-effective, and perfect for automating Twitter thread extraction for research, content curation, or archiving!
+
+---
+
 ### **Gmail & Email Automation**
 
 - Auto-label incoming Gmail messages with AI nodes
