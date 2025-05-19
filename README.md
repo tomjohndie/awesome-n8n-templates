@@ -45,7 +45,7 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 ### **Telegram**
 
 - Agentic Telegram AI bot with LangChain nodes and new tools
-- 🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram
+- [Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing (n8n workflow template)](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/)
 - AI-Powered Children’s Arabic Storytelling on Telegram
 - AI-Powered Children’s English Storytelling on Telegram with OpenAI
 - Automated AI image analysis and response via Telegram
