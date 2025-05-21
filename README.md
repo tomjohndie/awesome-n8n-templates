@@ -1,5 +1,6 @@
 # n8n_automations
-This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using n8n, making it easier for users to discover and use ready-made automations for various platforms and services.
+This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe), making it easier for users to discover and use ready-made automations for various platforms and services.
+👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ---
 
@@ -21,7 +22,7 @@ All automation templates in this repository were found online and are uploaded h
 🤖 Want to translate, rewrite, and repost Twitter (X) threads automatically?
 
 Looking to effortlessly transform and publish entire Twitter (X) threads in multiple languages?  
-Check out my n8n Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
+Check out my [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
 Perfect for creators, marketers, and anyone aiming to reach new audiences with minimal effort and ultra-low cost!
 
 👉 [Try the workflow here](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
@@ -118,7 +119,7 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 - Get Airtable data via AI and Obsidian Notes
 - Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr
 - vAssistant for Hubspot Chat using OpenAi and Airtable
-- Handling Job Application Submissions with AI and n8n Forms
+- Handling Job Application Submissions with AI and [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
 
 ### **OpenAI & LLMs**
 
@@ -129,7 +130,7 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 - AI Customer feedback sentiment analysis
 - AI Data Extraction with Dynamic Prompts and Airtable
 - AI Data Extraction with Dynamic Prompts and Baserow
-- AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n
+- AI-Driven Lead Management and Inquiry Automation with ERPNext & [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 - AI Fitness Coach Strava Data Analysis and Personalized Training Insights
 - AI-Powered Candidate Shortlisting Automation for ERPNext
 - AI-Powered Email Automation for Business: Summarize & Respond with RAG
@@ -139,7 +140,7 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 - AI Powered Web Scraping with Jina, Google Sheets and OpenAI: the EASY way
 - AI-powered WooCommerce Support-Agent
 - ⚡AI-Powered YouTube Video Summarization & Analysis
-- AI_ Ask questions about any data source (using the n8n workflow retriever)
+- AI_ Ask questions about any data source (using the [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) workflow retriever)
 - AI_ Summarize podcast episode and enhance using Wikipedia
 - AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants
 - AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs
@@ -205,7 +206,7 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 ### **AI Research, RAG, and Data Analysis**
 
 - AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack
-- Analyze tradingview.com charts with Chrome extension, N8N and OpenAI
+- Analyze tradingview.com charts with Chrome extension, [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) and OpenAI
 - Build a Financial Documents Assistant using Qdrant and Mistral.ai
 - Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI
 - Deduplicate Scraping AI Grants for Eligibility using AI
@@ -226,9 +227,9 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 
 ### **Forms & Surveys**
 
-- Email Subscription Service with n8n Forms, Airtable and AI
-- Handling Job Application Submissions with AI and n8n Forms
-- Qualifying Appointment Requests with AI & n8n Forms
+- Email Subscription Service with [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms, Airtable and AI
+- Handling Job Application Submissions with AI and [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
+- Qualifying Appointment Requests with AI & [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
 
 ### **Database & Storage**
 
