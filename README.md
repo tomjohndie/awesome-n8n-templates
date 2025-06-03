@@ -1,261 +1,262 @@
-# n8n_automations
-This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe), making it easier for users to discover and use ready-made automations for various platforms and services.
+# n8n_自动化模板库
 
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
+本仓库收集了来自互联网的 n8n 自动化模板。这些模板旨在帮助用户使用 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) 自动化各种任务和工作流，方便用户发现并使用适用于各个平台和服务的现成自动化方案。
+
+👉 [立即加入 n8n，开启自动化之旅！💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)  
+<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">  
+  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">  
 </a>
 
+---
+
+## 免责声明
+
+本仓库中的所有自动化模板均来自网络，上传仅为方便访问和分享。模板非本仓库作者原创或拥有版权。如使用过程中出现任何问题、错误或损失，仓库作者不承担任何责任。所有模板的版权归其原作者所有。
 
 ---
 
-## Disclaimer
-All automation templates in this repository were found online and are uploaded here solely for easy access and sharing. None of the templates are created or owned by the repository author. If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability. All rights to the original templates belong to their respective creators.
-
----
-
-☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
+☕ 在开始浏览琳琅满目的类别和模板之前，先来杯咖啡吧——如果你喜欢我的工作，别忘了请我喝杯咖啡！  
 
 <a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
---- 
+---
 
-## Categories & Template List
+## 类别与模板列表
 
 ---
 
-🤖 Want to translate, rewrite, and repost Twitter (X) threads automatically?
+🤖 想自动翻译、改写并转发 Twitter（X）主题串？  
 
-Looking to effortlessly transform and publish entire Twitter (X) threads in multiple languages?  
-Check out my [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
-Perfect for creators, marketers, and anyone aiming to reach new audiences with minimal effort and ultra-low cost!
+想轻松实现多语言转换和发布整条 Twitter（X）主题串？  
+看看我的 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) 翻译和发布工作流——它集提取、翻译、改写、发布于一体，实现无缝自动化。  
+非常适合创作者、营销人员及希望低成本触达新受众的用户！  
 
-👉 [Try the workflow here](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
-
----
-
-## 🧵 If you want to scrape Twitter (X) threads, definitely check this workflow
-
-Looking to extract and merge entire Twitter (X) threads quickly and affordably?  
-Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)-it’s lightning-fast, cost-effective, and perfect for automating Twitter thread extraction for research, content curation, or archiving!
+👉 [这里试用该工作流](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
 
 ---
 
-### **Gmail & Email Automation**
+## 🧵 想快速抓取 Twitter（X）主题串？一定要看这个工作流  
 
-- Auto-label incoming Gmail messages with AI nodes
-- Basic Automatic Gmail Email Labelling with OpenAI and Gmail API
-- Compose reply draft in Gmail with OpenAI Assistant
-- Extract spending history from gmail to google sheet
-- Gmail AI Auto-Responder: Create Draft Replies to incoming emails
-- Send specific PDF attachments from Gmail to Google Drive using OpenAI
-- Summarize your emails with A.I. (via Openrouter) and send to Line messenger
-- Effortless Email Management with AI-Powered Summarization & Review
-- Analyze & Sort Suspicious Email Contents with ChatGPT
-- Analyze Suspicious Email Contents with ChatGPT Vision
-- A Very Simple "Human in the Loop" Email Response System Using AI and IMAP
-- Auto Categorise Outlook Emails with AI
-- Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable
-- 📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox
-
-### **Telegram**
-
-- Agentic Telegram AI bot with LangChain nodes and new tools
-- [Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing (n8n workflow template)](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/)
-- AI-Powered Children’s Arabic Storytelling on Telegram
-- AI-Powered Children’s English Storytelling on Telegram with OpenAI
-- Automated AI image analysis and response via Telegram
-- Angie, Personal AI Assistant with Telegram Voice and Text
-- Chat with OpenAIs GPT via a simple Telegram Bot
-- Telegram AI bot assistant: ready-made template for voice & text messages
-- Telegram AI Bot: NeurochainAI Text & Image - NeurochainAI Basic API Integration
-- Telegram AI bot with LangChain nodes
-- Telegram AI Chatbot
-- Telegram Bot with Supabase memory and OpenAI assistant integration
-- Telegram chat with PDF
-- 🤖 Telegram Messaging Agent for Text_Audio_Images
-- Telegram to Spotify with OpenAI
-- Send a random recipe once a day to Telegram
-- Detect toxic language in Telegram messages
-- Translate Telegram audio messages with AI (55 supported languages)
-
-### **Google Drive & Google Sheets**
-
-- Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration
-- Automatic Background Removal for Images in Google Drive
-- Build an OpenAI Assistant with Google Drive Integration
-- RAG Chatbot for Company Documents using Google Drive and Gemini
-- RAG_Context-Aware Chunking: Google Drive to Pinecone via OpenRouter & Gemini
-- Summarize the New Documents from Google Drive and Save Summary in Google Sheet
-- Upload to Instagram and Tiktok from Google Drive
-- Author and Publish Blog Posts From Google Sheets
-- Chat with a Google Sheet using AI
-- Chat with your event schedule from Google Sheets in Telegram
-- Qualify new leads in Google Sheets via OpenAI’s GPT-4
-- Screen Applicants With AI, notify HR and save them in a Google Sheet
-- Summarize Google Sheets form feedback via OpenAI’s GPT-4
-
-### **Slack**
-
-- Automated Notion task reminders via Slack
-- AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack
-- Creating an AI Slack Bot with Google Gemini
-- Customer Support Channel and Ticketing System with Slack and Linear
-- Enhance Security Operations with the Qualys Slack Shortcut Bot!
-- Sentiment Analysis Tracking on Support Issues with Linear and Slack
-- IT Ops AI SlackBot Workflow - Chat with your knowledge base
-
-### **Notion**
-
-- Add positive feedback messages to a table in Notion
-- Analyse papers from Hugging Face with AI and store them in Notion
-- Notion AI Assistant Generator
-- Notion knowledge base AI assistant
-- Notion to Pinecone Vector Store Integration
-- Store Notion’s Pages as Vector Documents into Supabase with OpenAI
-- Upsert huge documents in a vector store with Supabase and Notion
-- Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr
-- Automate Competitor Research with Exa.ai, Notion and AI Agents
-
-### **Airtable**
-
-- AI Agent for project management and meetings with Airtable and Fireflies
-- AI Agent to chat with Airtable and analyze data
-- Get Airtable data via AI and Obsidian Notes
-- Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr
-- vAssistant for Hubspot Chat using OpenAi and Airtable
-- Handling Job Application Submissions with AI and [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
-
-### **OpenAI & LLMs**
-
-- Advanced AI Demo (Presented at AI Developers #14 meetup)
-- AI agent chat
-- AI agent that can scrape webpages
-- AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow
-- AI Customer feedback sentiment analysis
-- AI Data Extraction with Dynamic Prompts and Airtable
-- AI Data Extraction with Dynamic Prompts and Baserow
-- AI-Driven Lead Management and Inquiry Automation with ERPNext & [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-- AI Fitness Coach Strava Data Analysis and Personalized Training Insights
-- AI-Powered Candidate Shortlisting Automation for ERPNext
-- AI-Powered Email Automation for Business: Summarize & Respond with RAG
-- AI-powered email processing autoresponder and response approval (Yes/No)
-- AI-Powered RAG Workflow For Stock Earnings Report Analysis
-- AI-Powered Social Media Amplifier
-- AI Powered Web Scraping with Jina, Google Sheets and OpenAI: the EASY way
-- AI-powered WooCommerce Support-Agent
-- ⚡AI-Powered YouTube Video Summarization & Analysis
-- AI_ Ask questions about any data source (using the [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) workflow retriever)
-- AI_ Summarize podcast episode and enhance using Wikipedia
-- AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants
-- AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs
-- AI web researcher for sales
-- AI Youtube Trend Finder Based On Niche
-- AI Automated HR Workflow for CV Analysis and Candidate Evaluation
-- AI Agent with Ollama for current weather and wiki
-- AI Agent _ Google calendar assistant using OpenAI
-- AI Agent to chat with Supabase_PostgreSQL DB
-- AI Agent To Chat With Files In Supabase Storage
-- AI Agent to chat with you Search Console Data, using OpenAI and Postgres
-- AI Social Media Caption Creator creates social media post captions in Airtable
-- AI-Generated Summary Block for WordPress Posts
-- AI Automated HR Workflow for CV Analysis and Candidate Evaluation
-
-### **WhatsApp**
-
-- Building Your First WhatsApp Chatbot
-- Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI
-- Respond to WhatsApp Messages with AI Like a Pro!
-- Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp
-
-### **Discord**
-
-- Discord AI-powered bot
-- Send daily translated Calvin and Hobbes Comics to Discord
-- Share YouTube Videos with AI Summaries on Discord
-
-### **WordPress**
-
-- Auto-Categorize blog posts in wordpress using A.I.
-- Auto-Tag Blog Posts in WordPress with AI
-- Automate Blog Creation in Brand Voice with AI
-- Automate Content Generator for WordPress with DeepSeek R1
-- WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI
-- Write a WordPress post with AI (starting from a few keywords)
-
-### **PDF & Document Processing**
-
-- Ask questions about a PDF using AI
-- Chat with PDF docs using AI (quoting sources)
-- Convert URL HTML to Markdown Format and Get Page Links
-- Extract and process information directly from PDF using Claude and Gemini
-- Extract data from resume and create PDF with Gotenberg
-- Manipulate PDF with Adobe developer API
-- Parse PDF with LlamaParse and save to Airtable
-- Transcribe Audio Files, Summarize with GPT-4, and Store in Notion
-- Transcribing Bank Statements To Markdown Using Gemini Vision AI
-
-### **Other Integrations & Use Cases**
-
-- Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call
-- Siri AI Agent: Apple Shortcuts powered voice template
-- Text automations using Apple Shortcuts
-- LINE Assistant with Google Calendar and Gmail Integration
-- Monthly Spotify Track Archiving and Playlist Classification
-- Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API
-- Enhance Customer Chat by Buffering Messages with Twilio and Redis
-- Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI
-- Visualize your SQL Agent queries with OpenAI and Quickchart.io
-- UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports
-
-### **AI Research, RAG, and Data Analysis**
-
-- AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack
-- Analyze tradingview.com charts with Chrome extension, [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) and OpenAI
-- Build a Financial Documents Assistant using Qdrant and Mistral.ai
-- Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI
-- Deduplicate Scraping AI Grants for Eligibility using AI
-- Enrich Pipedrive’s Organization Data with OpenAI GPT-4o & Notify it in Slack
-- Extract insights & analyse YouTube comments via AI Agent chat
-- Make OpenAI Citation for File Retrieval RAG
-- Summarize SERPBear data with AI (via Openrouter) and save it to Baserow
-- Summarize Umami data with AI (via Openrouter) and save it to Baserow
-
-### **Instagram, Twitter, Social Media**
-
-- AI agent for Instagram DM_inbox. Manychat + Open AI integration
-- Generate Instagram Content from Top Trends with AI Image Generation
-- Update Twitter banner using HTTP request
-- Twitter Virtual AI Influencer
-- Create dynamic Twitter profile banner
-- Post New YouTube Videos to X
-
-### **Forms & Surveys**
-
-- Email Subscription Service with [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms, Airtable and AI
-- Handling Job Application Submissions with AI and [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
-- Qualifying Appointment Requests with AI & [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms
-
-### **Database & Storage**
-
-- Chat with Postgresql Database
-- MongoDB AI Agent - Intelligent Movie Recommendations
-- Supabase Insertion & Upsertion & Retrieval
-- Upsert huge documents in a vector store with Supabase and Notion
-
-### **Other**
-
-- ALL_unique_nodes.txt (node reference)
-
-... and more !
+想快速且经济地提取并合并整条 Twitter（X）主题串？  
+试试我的 [n8n Twitter 主题串抓取器工作流](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)——速度极快、成本低廉，完美适合研究、内容策划或归档自动化！
 
 ---
 
-If you would like to contribute additional templates or suggest new categories, feel free to open an issue or pull request!
+### Gmail 和邮件自动化
+
+- 利用 AI 节点自动给 Gmail 新邮件打标签
+- 使用 OpenAI 和 Gmail API 实现基础自动邮件标记
+- OpenAI 助手辅助起草 Gmail 回复草稿
+- 从 Gmail 中提取消费记录导入 Google Sheet
+- Gmail AI 自动回复：创建邮件回复草稿
+- 使用 OpenAI 将 Gmail 特定 PDF 附件保存到 Google Drive
+- 用 AI（Openrouter）总结邮件并发送到 Line
+- AI 助力轻松邮件管理与总结复查
+- 利用 ChatGPT 分析并分类可疑邮件内容
+- 使用 ChatGPT Vision 分析可疑邮件内容
+- 简易 AI+IMAP“人工介入”邮件回复系统
+- 使用 AI 自动分类 Outlook 邮件
+- Microsoft Outlook AI 助手结合 Monday 和 Airtable 联系支持
+- 📈 每天接收来自 FT.com 的市场新闻到 Outlook
+
+### Telegram
+
+- Agentic 风格 Telegram AI 机器人：支持 LangChain 节点和新工具
+- [赋能 AI 聊天机器人：长时记忆与动态工具路由（n8n 模板）](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/)
+- Telegram 上的 AI 童话故事：阿拉伯语版本
+- Telegram 上的 AI 童话故事：英语版本，基于 OpenAI
+- 通过 Telegram 自动进行 AI 图片分析及响应
+- Angie：支持语音和文本的个人 AI 助手
+- 通过简单的 Telegram 机器人与 OpenAI GPT 交流
+- Telegram AI 语音及文字消息助手模板
+- Telegram AI 机器人：NeurochainAI 文字与图片，NeurochainAI 基础 API 集成
+- 搭载 LangChain 节点的 Telegram AI 机器人
+- Telegram AI 聊天机器人
+- 集成 Supabase 记忆和 OpenAI 的 Telegram 机器人
+- Telegram PDF 聊天机器人
+- 🤖 支持文本、音频、图片的 Telegram 消息代理
+- Telegram 与 Spotify 集成使用 OpenAI
+- 每天向 Telegram 发送随机菜谱
+- 侦测 Telegram 消息中的有害语言
+- 使用 AI 翻译 Telegram 语音消息（支持 55 种语言）
+
+### Google Drive & Google Sheets
+
+- 与 Google Drive 集成的端到端 OpenAI 模型自动微调
+- Google Drive 图片自动背景移除
+- 构建集成 Google Drive 的 OpenAI 助手
+- 利用 Google Drive 和 Gemini 构建 RAG 聊天机器人处理公司文档
+- 使用 OpenRouter 和 Gemini，实现 Google Drive 文档上下文感知分块，并上传 Pinecone
+- 总结 Google Drive 新文档并保存至 Google Sheet
+- 从 Google Drive 自动上传至 Instagram 和 TikTok
+- 通过 Google Sheets 创建和发布博客文章
+- 使用 AI 与 Google Sheet 聊天
+- 与 Google Sheets 的活动日程在 Telegram 中对话
+- 利用 OpenAI GPT-4 对 Google Sheets 新潜在客户进行资格筛选
+- 使用 AI 筛选申请人，通知 HR 并保存到 Google Sheet
+- 利用 OpenAI GPT-4 总结 Google Sheets 表单反馈
+
+### Slack
+
+- 通过 Slack 自动发送 Notion 任务提醒
+- 利用 OpenAI、Google Sheets、Jina AI 和 Slack 进行信息监控
+- 创建集成 Google Gemini 的 AI Slack 机器人
+- Slack 与 Linear 集成的客户支持频道及工单系统
+- 使用 Qualys Slack 快捷方式机器人提升安全运营
+- 通过 Linear 和 Slack 进行支持问题情感分析追踪
+- IT 运维 AI SlackBot 工作流——与知识库聊天
+
+### Notion
+
+- 向 Notion 表格添加积极反馈消息
+- 利用 AI 分析 Hugging Face 论文并存储至 Notion
+- Notion AI 助手生成器
+- Notion 知识库 AI 助手
+- Notion 与 Pinecone 向量存储集成
+- 将 Notion 页面作为向量文档存入 Supabase 并结合 OpenAI
+- 用 Supabase 和 Notion 批量更新大型文档到向量存储
+- 将邮件转为带 AI 辅助的 Notion 任务（支持多用户），结合 Gmail、Airtable 和 Softr
+- 使用 Exa.ai、Notion 和 AI 代理自动化竞争对手调研
+
+### Airtable
+
+- 结合 Airtable 和 Fireflies 的项目管理及会议 AI 代理
+- 可与 Airtable 聊天并分析数据的 AI 代理
+- 通过 AI 和 Obsidian 笔记获取 Airtable 数据
+- 将邮件转为带 AI 辅助的 Notion 任务（支持多用户），结合 Gmail、Airtable 和 Softr
+- 利用 OpenAI 和 Airtable 生成 Hubspot 聊天助手
+- 使用 AI 和 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms 处理招聘申请提交
+
+### OpenAI 与大型语言模型 (LLMs)
+
+- 先进 AI 演示（AI Developers #14 线上活动展示）
+- AI 代理聊天
+- 可以抓取网页的 AI 代理
+- 基于 Q&A 的 AI 基本股票分析自动化工作流
+- AI 客户反馈情绪分析
+- 使用动态提示词和 Airtable 的 AI 数据提取
+- 使用动态提示词和 Baserow 的 AI 数据提取
+- 结合 ERPNext 和 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) 的 AI 驱动销售线索管理和询盘自动化
+- AI 健身教练：Strava 数据分析与个性化训练建议
+- 基于 AI 的 ERPNext 候选人筛选自动化
+- AI 驱动的商业邮件自动化：总结与回复（RAG 技术）
+- AI 自动邮件处理自动回复与响应审批（是/否）
+- 基于 AI 的股票财报 RAG 工作流
+- AI 驱动的社交媒体推广助手
+- 利用 Jina、Google Sheets 和 OpenAI 的简易 AI 网络爬虫
+- AI 驱动的 WooCommerce 支持代理
+- ⚡ AI 驱动的 YouTube 视频摘要与分析
+- AI 查询任何数据源（基于 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) 工作流检索器）
+- AI 播客摘要并使用维基百科增强内容
+- 基于 ElevenLabs 和 OpenAI 的 AI 语音客服聊天机器人
+- 结合 Webhook、Memory Manager、OpenAI、Google Gemini 和 ElevenLabs 的 AI 语音聊天
+- AI 网络销售研究员
+- 基于细分领域的 AI YouTube 趋势发现器
+- 自动化 AI 人力资源工作流：简历分析与候选人评估
+- 基于 Ollama 的 AI 代理获取实时天气和维基信息
+- 使用 OpenAI 的 Google 日历 AI 助手
+- 基于 Supabase_PostgreSQL 数据库的 AI 聊天代理
+- 与 Supabase 存储文件交互的 AI 代理
+- 通过 OpenAI 和 PostgreSQL 与 Search Console 数据聊天的 AI 代理
+- AI 社交媒体贴文标题生成器（基于 Airtable）
+- WordPress 文章的 AI 生成摘要块
+- 自动化 AI 人力资源工作流：简历分析与候选人评估
+
+### WhatsApp
+
+- 构建你的首个 WhatsApp 机器人
+- 完整商业版 WhatsApp AI 驱动 RAG 聊天机器人，基于 OpenAI
+- 像专业人士一样用 AI 回复 WhatsApp 消息！
+- 自动化销售会议准备，结合 AI 和 APIFY，发送至 WhatsApp
+
+### Discord
+
+- Discord AI 机器人
+- 每日翻译的《卡尔文与霍布斯》漫画发送至 Discord
+- 在 Discord 分享带 AI 摘要的 YouTube 视频
+
+### WordPress
+
+- 利用 AI 自动分类 WordPress 博客文章
+- 使用 AI 自动为 WordPress 博客文章打标签
+- 用 AI 自动化品牌语气的博客内容创作
+- 基于 DeepSeek R1 的 WordPress 内容生成器自动化
+- WordPress AI 聊天机器人，结合 Supabase 和 OpenAI，提升用户体验
+- 根据关键词使用 AI 撰写 WordPress 文章
+
+### PDF 与文档处理
+
+- 使用 AI 询问 PDF 内容
+- 与 PDF 文档 AI 聊天（可引用来源）
+- 将网页 URL HTML 转换为 Markdown 格式并获取页面链接
+- 使用 Claude 和 Gemini 直接提取和处理 PDF 信息
+- 从简历提取数据并用 Gotenberg 生成 PDF
+- 通过 Adobe 开发者 API 操作 PDF
+- 使用 LlamaParse 解析 PDF 并保存至 Airtable
+- 转录音频文件、用 GPT-4 总结并存入 Notion
+- 使用 Gemini Vision AI 转录银行账单并转为 Markdown
+
+### 其他集成与用例
+
+- Zoom AI 会议助手：邮件总结、ClickUp 任务及后续电话安排
+- Siri AI 代理：基于 Apple Shortcuts 的语音模版
+- 使用 Apple Shortcuts 的文本自动化
+- 集成 Google 日历和 Gmail 的 LINE 助手
+- 每月 Spotify 曲目存档和播放列表分类
+- 利用 Pinterest API 自动化 Pinterest 分析及 AI 内容建议
+- 使用 Twilio 和 Redis 缓冲消息，提升客户聊天体验
+- 使用 Twilio、Cal.com 和 AI 处理预约和跟进
+- 结合 OpenAI 和 Quickchart.io 可视化 SQL Agent 查询
+- UTM 链接创建与二维码生成，附带定时 Google Analytics 报告
+
+### AI 研究、RAG 与数据分析
+
+- 利用 OpenAI、Google Sheets、Jina AI 和 Slack 进行信息监控
+- 结合 Chrome 插件、[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) 和 OpenAI 分析 tradingview.com 图表
+- 使用 Qdrant 和 Mistral.ai 构建财务文档助手
+- 结合 Qdrant 和 Open AI 构建电影推荐 RAG 聊天机器人
+- 用 AI 去重并筛选 AI 资助资格抓取数据
+- 利用 OpenAI GPT-4o 丰富 Pipedrive 组织数据并在 Slack 通知
+- 通过 AI 代理聊天提取和分析 YouTube 评论洞察
+- 制作 OpenAI 引用的文件检索 RAG
+- 用 AI（通过 OpenRouter）总结 SERPBear 数据并保存到 Baserow
+- 用 AI（通过 OpenRouter）总结 Umami 数据并保存到 Baserow
+
+### Instagram、Twitter 与社交媒体
+
+- Instagram 直信 AI 代理，Manychat + OpenAI 集成
+- 利用 AI 生成热门趋势 Instagram 内容及图像
+- 使用 HTTP 请求更新 Twitter 横幅
+- Twitter 虚拟 AI 网红
+- 创建动态 Twitter 头像横幅
+- 自动发布新 YouTube 视频至 X
+
+### 表单与调查
+
+- 基于 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms、Airtable 和 AI 的邮件订阅服务
+- 使用 AI 和 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms 处理求职申请提交
+- 利用 AI 和 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Forms 评估预约请求资格
+
+### 数据库与存储
+
+- 与 PostgreSQL 数据库聊天
+- MongoDB AI 代理——智能电影推荐
+- Supabase 插入、更新与检索
+- 用 Supabase 和 Notion 批量更新大型文档到向量存储
+
+### 其他
+
+- ALL_unique_nodes.txt（节点参考）
+
+... 以及更多！
 
 ---
 
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
+如果你希望贡献更多模板或建议新的类别，欢迎提交 Issue 或 Pull Request！
+
+---
+
+👉 [立即加入 n8n，开启自动化之旅！💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)  
+<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">  
+  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">  
 </a>
